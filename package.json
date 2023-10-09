@@ -1,0 +1,10 @@
+{
+  "name": "jest-test-coverage-ci-playground",
+  "version": "1.0.0",
+  "description": "Playground to understand the test coverage GH action",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
